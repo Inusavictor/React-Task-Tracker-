@@ -1,0 +1,3 @@
+A basic react app showing it's full capacity
+I used json server to simulate a backend
+The app allows you perform the full CRUD functionailties except for Update
